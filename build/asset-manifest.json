@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fbcaf88.css",
+    "main.js": "/static/js/main.269dcb15.js",
+    "Cart.js": "/static/js/Cart.7063d579.chunk.js",
+    "FullArmor.js": "/static/js/FullArmor.b9936b41.chunk.js",
+    "NotFound.js": "/static/js/NotFound.7439b3e2.chunk.js",
+    "LoginPagas.js": "/static/js/LoginPagas.f048c619.chunk.js",
+    "Register.js": "/static/js/Register.69a8502a.chunk.js",
+    "static/js/591.87f82080.chunk.js": "/static/js/591.87f82080.chunk.js",
+    "static/media/cartempty.jpg": "/static/media/cartempty.6704af32c80ddad0c731.jpg",
+    "static/media/image.jpg": "/static/media/image.dd92756da837dda44156.jpg",
+    "static/media/armor-logo.svg": "/static/media/armor-logo.05e2232cf2a06169804c1b54c62eda0d.svg",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.951de6991ebb3a69fed8ee8341a961b9.svg",
+    "main.3fbcaf88.css.map": "/static/css/main.3fbcaf88.css.map",
+    "main.269dcb15.js.map": "/static/js/main.269dcb15.js.map",
+    "Cart.7063d579.chunk.js.map": "/static/js/Cart.7063d579.chunk.js.map",
+    "FullArmor.b9936b41.chunk.js.map": "/static/js/FullArmor.b9936b41.chunk.js.map",
+    "NotFound.7439b3e2.chunk.js.map": "/static/js/NotFound.7439b3e2.chunk.js.map",
+    "LoginPagas.f048c619.chunk.js.map": "/static/js/LoginPagas.f048c619.chunk.js.map",
+    "Register.69a8502a.chunk.js.map": "/static/js/Register.69a8502a.chunk.js.map",
+    "591.87f82080.chunk.js.map": "/static/js/591.87f82080.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fbcaf88.css",
+    "static/js/main.269dcb15.js"
+  ]
+}
