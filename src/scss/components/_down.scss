@@ -1,0 +1,15 @@
+@import '../variables';
+
+.text{
+    a {
+        color: #0e0a18; /* Цвет обычной ссылки */ 
+        text-decoration: none; /* Убираем подчёркивание у ссылок */
+       }
+       a:visited {
+        color: #8F8E8E; /* Цвет посещённой ссылки */
+       } 
+       a:hover {
+        color: #d13d42; /* Цвет ссылки при наведении */ 
+        text-decoration: underline; /* Добавляем подчёркивание */
+       } 
+}
